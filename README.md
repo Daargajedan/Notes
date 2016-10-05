@@ -1,5 +1,6 @@
-# Yo
+# Notes.
 
-# What is Yo?
-The Yo room is here so you can send a "I am online message" to all the users in you're group.
-
+# What is Notes?
+Create note's with your'e group.
+ - Make to do lists. 
+ - You're shopping list
